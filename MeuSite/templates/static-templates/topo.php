@@ -8,7 +8,8 @@
     <link rel="stylesheet" href='static/css/style.css'>
 </head>
 <body>
-    
-<img src="static/images/logo.png" alt="logo" width="120px">
 
+<header >  
+<img src="static/images/logo.png" alt="logo" width="120px">
+</header>
 
