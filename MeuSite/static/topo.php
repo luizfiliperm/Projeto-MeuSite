@@ -8,4 +8,4 @@
 </head>
 <body>
     
-<img src="images/logo.png" alt="logo" width="120px">
+<img src="static/images/logo.png" alt="logo" width="120px">
