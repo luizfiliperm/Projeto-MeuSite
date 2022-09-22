@@ -25,6 +25,7 @@ body {
 }
 
 .menu li {
+    font-size: 1vw;
     margin: 10px;
 }
 
@@ -67,7 +68,7 @@ body {
 }
 
 #noticias h3 {
-    font-size: x-large;
+    font-size: 2Vw;
     text-align: center;
     
 }
