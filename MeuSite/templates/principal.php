@@ -1,6 +1,3 @@
-<h1>Principal</h1>
-
-
 
 <section class='divisao' id='noticias'>
 <h1><a href="?pg=templates/content-games/noticias">Noticias</a></h1>

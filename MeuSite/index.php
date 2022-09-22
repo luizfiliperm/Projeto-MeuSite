@@ -1,7 +1,6 @@
 <?php
 
     include_once("templates/static-templates/topo.php");
-    include_once("templates/static-templates/menu.php");
 
     if(empty($_SERVER["QUERY_STRING"])){
         $conteudo = "templates/principal.php";

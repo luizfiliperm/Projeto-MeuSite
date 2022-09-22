@@ -9,7 +9,13 @@
 </head>
 <body>
 
-<header >  
-<img src="static/images/logo.png" alt="logo" width="120px">
-</header>
-
+ <div class ="topo">
+    <img src="static/images/logo-gato.png" alt="logo" width="150px">
+    <ul class = "menu">
+        <li><a href="?pg=templates/principal">Home</a></li>
+        <li><a href="?pg=templates/quem-somos">Quem somos</a></li>
+        <li><a href="?pg=templates/content-games/jogos">Jogos</a></li>
+        <li><a href="?pg=templates/content-games/noticias">Noticias</a></li>
+        <li><a href="?pg=templates/content-games/desenvolvimento">Desenvolvimento</a></li>
+    </ul>
+</div>

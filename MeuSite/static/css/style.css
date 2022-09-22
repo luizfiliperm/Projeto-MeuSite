@@ -1,14 +1,36 @@
-/**CSS - Menu Dropdown**/
+body {
+    color: ghostwhite;
+    background-color: black;
+}
+
+/**CSS - Menu**/
+.topo{
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+}
 
 .menu {
     list-style: none;
-    padding: 10px;
-    margin: 0px;
+    padding: 5px;
+    justify-items: flex-end;
     display: flex;
-    justify-content: flex-end;
+    margin-top: 35px;
 }
-
 
 .menu li {
     margin: 10px;
 }
+
+.menu li a {
+    text-decoration: none;
+    color: LimeGreen;
+    font-size: larger;
+}
+
+.menu li a:hover {
+    color: green;
+}
+/**CSS - Menu**/
+
+/**CSS - Pagina Principal**/
