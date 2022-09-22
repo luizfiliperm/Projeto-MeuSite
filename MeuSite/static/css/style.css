@@ -34,3 +34,37 @@ body {
 /**CSS - Menu**/
 
 /**CSS - Pagina Principal**/
+
+.divisao{
+    margin-top: 60px;
+}
+
+.divisao h1 a{
+    text-decoration: none;
+    color: Green;
+    font-size: xx-large;
+}
+
+.divisao h1 {
+    padding: 20px;
+}
+
+#noticias ul{
+    display: flex;
+    justify-content: space-evenly;
+} 
+
+#noticias ul li {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 200px;
+}
+
+#noticias h3 {
+    font-size: x-large;
+    text-align: center;
+    
+}
+#noticias img {
+    box-shadow: 0px 3px 17px 0px limegreen;
+}
