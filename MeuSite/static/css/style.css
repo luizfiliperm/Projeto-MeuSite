@@ -7,6 +7,7 @@
 body {
     color: ghostwhite;
     background-color: black;
+    
 }
 
 /**CSS - Menu**/
@@ -85,7 +86,7 @@ footer{
     background: #008000;
     height: auto;  
     width: 100vw;
-
+    max-width: 100%;
     padding-top: 40px;
     color: #fff;
 }
@@ -139,6 +140,7 @@ footer{
 .footer-bottom{
     background: #32CD32;
     width: 100vw;
+    max-width: 100%;
     padding: 20px;
     padding-bottom: 40px;
     text-align: center;
