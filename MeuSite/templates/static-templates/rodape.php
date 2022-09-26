@@ -1,7 +1,7 @@
-<footer>
+<footer id='rodape'>
         <div class="footer-content">
             <h3>L&V</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque architecto voluptatum ab accusantium est adipisci, illum natus labore voluptatem magni inventore, praesentium iste id beatae sed animi ipsum rem tempora.</p>
+            <p>Equipe composta por Luiz Filipe e Maria Vitória, site desenvolvido com o intuito de apresentar novidades do mundo dos games, bem como notícias e mostrar os jogos gratuitos da semana, além de mostrar nossos jogos próprios que estão em desenvolvimento.</p>
             <ul class="socials">
                 <li><a href="#"><img src="static/images/footer/instagram.png" alt="instagram" width="50px"></a></li>
                 <li><a href="#"><img src="static/images/footer/whatsapp.png" alt="whatsapp" width="50px"></a></li>
@@ -12,8 +12,7 @@
             <p>copyright &copy; <a href="#">L&V</a>  </p>
                     <div class="footer-menu">
                       <ul class="f-menu">
-                        <li><a href="">Home</a></li>
-                        <li><a href="">Sobre</a></li>   
+                        <li><a href="#">Home</a></li>  
                       </ul>
                     </div>
         </div>

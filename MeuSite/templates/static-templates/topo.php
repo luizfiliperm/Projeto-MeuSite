@@ -17,6 +17,6 @@
         <li><a href="?pg=templates/content-games/jogos">Jogos Grátis</a></li>
         
         <li><a href="?pg=templates/content-games/nossos-jogos">Nossos Jogos</a></li>
-        <li><a href="?pg=templates/quem-somos">Quem somos</a></li>
+        <li><a href="#rodape">Quem somos</a></li>
     </ul>
 </div>
