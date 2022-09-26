@@ -41,40 +41,94 @@ body {
 }
 /**CSS - Menu**/
 
-/**CSS - Pagina Principal**/
+/**CSS - Pagina Principal(tb utiliza nos outros)**/
 
-.divisao{
-    margin-top: 60px;
-}
-
-.divisao h1 a{
+.flex-container h1 a{
     text-decoration: none;
     color: Green;
     font-size: xx-large;
 }
 
-.divisao h1 {
+.flex-container h1 {
     padding: 20px;
 }
 
-#noticias ul{
+.flex-container{
     display: flex;
-    justify-content: space-evenly;
-} 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: -70px;
+}
 
-#noticias ul li {
+.class-ul{
     display: flex;
-    justify-content: flex-end;
-    margin-right: 200px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin: 100px;
+}
+
+.class-ul li{
+    width: 50%;
+}
+/**CSS - Notícias**/
+
+#noticias h1 a{
+    text-decoration: none;
+    color: Green;
+    font-size: xx-large;
+}
+
+#noticias h1 {
+    padding: 20px;
 }
 
 #noticias h3 {
     font-size: 2Vw;
     text-align: center;
-    
 }
+
 #noticias img {
     box-shadow: 0px 3px 17px 0px limegreen;
+    width: 400px;
+    margin-right: 50px;
+    border-radius:4px;
+}
+
+#noticias ul li {
+    display: flex;
+    justify-content: flex-end;
+}
+
+/**CSS - Jogos Gratuitos **/
+
+#jogos h1 a{
+    text-decoration: none;
+    color: Green;
+    font-size: xx-large;
+}
+
+#jogos h1 {
+    padding: 20px;
+}
+
+#jogos h3 {
+    font-size: 2Vw;
+    text-align: center;
+}
+
+#jogos img {
+    box-shadow: 0px 3px 17px 0px limegreen;
+    width: 400px;
+    margin-right: 50px;
+    border-radius:4px;
+}
+
+#jogos ul li {
+    display: flex;
+    justify-content: flex-end;
 }
 
 /* CSS - Footer */
